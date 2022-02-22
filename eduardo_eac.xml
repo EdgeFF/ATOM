@@ -41,9 +41,19 @@
                 <email>a21alcaed@iesgrancapitan.org</email>
         </author>
                 <title>Final Fantasy XIV</title>
-                <link rel="alternate" href="./eduardo_eac.html"/>
+                <link href="https://www.finalfantasyxiv.com/"/>
                 <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
                 <updated>2021-02-13T18:30:02Z</updated>
+                <content type="xhtml">
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                        <h1>Notas</h1>
+                        <ul>
+                        <li>00:01:00 -- Introducción</li>
+                        <li>00:15:00 -- Hablando de Atom 1.0</li>
+                        <li>00:30:00 -- Ejemplos</li>
+                        </ul>
+                        </div>
+                </content>
                 <summary>El MMO mas exitoso a nivel mundial anuncia su nuevo evento para San Valentín</summary>
         </entry>
         

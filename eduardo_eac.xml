@@ -1,0 +1,61 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+        <title>Bienvenidos a E-Play</title>
+        <subtitle>Tu noticiero de videojuegos</subtitle>
+        <link href="https://github.com/EdgeFF/RSS/blob/main/eduardo_eac.rss"/>
+        <updated>2021-02-13T18:30:02Z</updated>
+        <author>
+                <name>Eduardo Albano Carmona</name>
+                <email>a21alcaed@iesgrancapitan.org</email>
+        </author>
+        <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+    <category term="MMO"/>
+    <rights type="html"> 2022 EdgeFF</rights>
+        <entry>
+        <author>
+                <name>Eduardo Albano Carmona</name>
+                <email>a21alcaed@iesgrancapitan.org</email>
+        </author>
+                <title>GT6</title>
+                <link href="http://example.org/2003/12/13/atom03"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <link rel="enclosure" xml:lang="es-es" title="Noticia GTA6" type="application/pdf" hreflang="es-es" href="./gta6.pdf"/>
+                <updated>2021-12-13T18:30:02Z</updated>
+                <summary>Rockstar anuncia su futura nueva entrega tan esperada, y los jugadores especulan sobre un posible GTA6</summary>
+        </entry>
+ <entry>
+ <author>
+                <name>Eduardo Albano Carmona</name>
+                <email>a21alcaed@iesgrancapitan.org</email>
+        </author>
+                <title>Lost ARK</title>
+                <link href="http://example.org/2003/12/13/atom03"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2021-02-13T18:30:02Z</updated>
+                <link rel="enclosure" type="audio/mpeg" title="MP3" href="" length="127556438"/>
+                <summary>Lanzamiento exitoso del esperado Lost ARK, con la saturacion de servidores que ello conlleva</summary>
+        </entry>
+         <entry>
+         <author>
+                <name>Eduardo Albano Carmona</name>
+                <email>a21alcaed@iesgrancapitan.org</email>
+        </author>
+                <title>Final Fantasy XIV</title>
+                <link href="http://example.org/2003/12/13/atom03"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2021-02-13T18:30:02Z</updated>
+                <summary>El MMO mas exitoso a nivel mundial anuncia su nuevo evento para San Valentín</summary>
+        </entry>
+        
+         <entry>
+         <author>
+                <name>Eduardo Albano Carmona</name>
+                <email>a21alcaed@iesgrancapitan.org</email>
+        </author>
+                <title>Celeste</title>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2021-02-13T18:30:02Z</updated>
+                <link href="http://www.mattmakesgames.com/"/>
+                <summary>Celeste el juego de plataformas nos pondra el reto de escalar una gran montaña</summary>
+        </entry>
+</feed>

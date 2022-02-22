@@ -32,7 +32,7 @@
                 <link href="http://example.org/2003/12/13/atom03"/>
                 <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
                 <updated>2021-02-13T18:30:02Z</updated>
-                <link rel="enclosure" type="audio/mpeg" title="MP3" href="" length="127556438"/>
+                <link rel="enclosure" type="audio/mpeg" title="MP3" href="audio.mp3" length="127556438"/>
                 <summary>Lanzamiento exitoso del esperado Lost ARK, con la saturacion de servidores que ello conlleva</summary>
         </entry>
          <entry>
@@ -41,7 +41,7 @@
                 <email>a21alcaed@iesgrancapitan.org</email>
         </author>
                 <title>Final Fantasy XIV</title>
-                <link href="http://example.org/2003/12/13/atom03"/>
+                <link rel="alternate" href="./eduardo_eac.html"/>
                 <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
                 <updated>2021-02-13T18:30:02Z</updated>
                 <summary>El MMO mas exitoso a nivel mundial anuncia su nuevo evento para San Valentín</summary>
